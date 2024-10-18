@@ -7,12 +7,11 @@
 
 **👀 Interests**
 - Front-End Web Development
-- Data Science
-- UX design
+- Data Engineering
 
 **💻 Tech Stack**
-- Languages: Python, Java, HTML, CSS, JavaScript
-- Frameworks: Angular
+- Languages: Python, Java, SQL, HTML, CSS, JavaScript
+- Frameworks: React
 - Tools: Git, IntelliJ, VSCode
 
 **📫 Reach Me Here**
