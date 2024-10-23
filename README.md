@@ -1,7 +1,8 @@
-**Hi There! 👋**
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+There+👋;I+Am+Thobeka+Guma+😊+🇿🇦;A+passionate+full-stack+developer+💻;With+a+love+for+data+📈+🧮" alt="Typing SVG" /></a>
+</p>
 
 **🚀 Quick Overview**
-- 👋 Hi, I’m @thobekaguma
 - 😄 Pronouns: her/she
 - 💞️ I’m looking to collaborate on innovative web projects and data-driven applications.
 
